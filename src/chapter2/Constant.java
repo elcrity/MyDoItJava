@@ -9,5 +9,8 @@ public class Constant {
 		
 		System.out.println(MAX_NUM);
 		System.out.println(MIN_NUM);
+		
+		//오류 발생. 상수는 값 변경 불가
+//		MAX_NUM = 1000;
 	}
 }
